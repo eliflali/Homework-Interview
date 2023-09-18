@@ -1,0 +1,1 @@
+Top words for category 'SCIENCE': [('the', 539), ('to', 452), ('of', 428), ('in', 406), ('a', 296), ('for', 200), ('on', 186), ('new', 168), ('is', 168), ('and', 157)]

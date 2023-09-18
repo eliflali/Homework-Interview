@@ -1,0 +1,1 @@
+Top words for category 'MEDIA': [('the', 766), ('to', 693), ('of', 425), ('trump', 366), ('for', 360), ('a', 342), ('in', 340), ('news', 332), ('on', 317), ('is', 300)]

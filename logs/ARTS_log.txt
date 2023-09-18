@@ -1,0 +1,1 @@
+Top words for category 'ARTS': [('the', 711), ('of', 378), ('a', 273), ('and', 250), ('in', 220), ('to', 199), ('art', 159), ('at', 135), ('is', 121), ('with', 118)]

@@ -1,0 +1,1 @@
+Top words for category 'QUEER VOICES': [('the', 2074), ('to', 1686), ('a', 1224), ('gay', 1220), ('of', 1161), ('in', 986), ('and', 938), ('for', 834), ('is', 606), ('on', 602)]

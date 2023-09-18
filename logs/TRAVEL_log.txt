@@ -1,0 +1,1 @@
+Top words for category 'TRAVEL': [('the', 3825), ('to', 2409), ('in', 2072), ('a', 1650), ('(photos)', 1579), ('of', 1328), ('for', 1054), ('and', 944), ('travel', 826), ('on', 744)]

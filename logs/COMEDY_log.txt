@@ -1,0 +1,1 @@
+Top words for category 'COMEDY': [('the', 1714), ('to', 975), ('a', 840), ('of', 828), ('trump', 700), ('is', 632), ('in', 626), ('donald', 614), ('on', 592), ('and', 549)]

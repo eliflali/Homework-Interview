@@ -1,0 +1,1 @@
+Top words for category 'GREEN': [('the', 953), ('to', 594), ('of', 465), ('in', 432), ('a', 371), ('and', 335), ('climate', 334), ('for', 306), ('is', 256), ('on', 226)]

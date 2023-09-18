@@ -1,0 +1,1 @@
+Top words for category 'RELIGION': [('the', 863), ('of', 591), ('to', 574), ('a', 410), ('in', 393), ('and', 379), ('for', 297), ('pope', 239), ('is', 228), ('on', 189)]

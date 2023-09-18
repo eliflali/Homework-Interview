@@ -1,0 +1,1 @@
+Top words for category 'FOOD & DRINK': [('the', 2172), ('to', 1340), ('a', 884), ('and', 763), ('of', 762), ('(photos)', 696), ('for', 670), ('recipes', 571), ('in', 557), ('you', 511)]

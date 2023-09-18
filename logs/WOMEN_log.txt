@@ -1,0 +1,1 @@
+Top words for category 'WOMEN': [('the', 1332), ('to', 979), ('a', 722), ('women', 690), ('of', 574), ('in', 463), ('is', 399), ('for', 390), ('and', 371), ('this', 323)]

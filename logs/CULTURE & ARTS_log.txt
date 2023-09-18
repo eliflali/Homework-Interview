@@ -1,0 +1,1 @@
+Top words for category 'CULTURE & ARTS': [('the', 539), ('of', 241), ('(photos)', 229), ('and', 206), ('in', 202), ('a', 155), ('on', 153), ('to', 108), ('art', 94), ('at', 91)]

@@ -1,0 +1,1 @@
+Top words for category 'POLITICS': [('to', 10701), ('the', 9619), ('trump', 6896), ('of', 5536), ('in', 5250), ('for', 4911), ('a', 4655), ('on', 4105), ('is', 3176), ('donald', 3094)]

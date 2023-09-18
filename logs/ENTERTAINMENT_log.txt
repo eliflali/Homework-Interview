@@ -1,0 +1,1 @@
+Top words for category 'ENTERTAINMENT': [('the', 5250), ('to', 3465), ('in', 2899), ('of', 2890), ('and', 2747), ('a', 2738), ('is', 2116), ('for', 1907), ('on', 1893), ('with', 1694)]

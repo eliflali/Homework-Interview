@@ -1,0 +1,1 @@
+Top words for category 'DIVORCE': [('divorce', 947), ('to', 912), ('the', 820), ('a', 644), ('your', 455), ('of', 385), ('and', 362), ('in', 344), ('for', 311), ('you', 295)]

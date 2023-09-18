@@ -1,0 +1,1 @@
+Top words for category 'PARENTING': [('the', 2590), ('to', 2333), ('a', 1718), ('of', 1282), ('for', 1163), ('and', 1104), ('in', 826), ('kids', 815), ('my', 810), ('your', 796)]

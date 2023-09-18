@@ -1,0 +1,1 @@
+Top words for category 'WELLNESS': [('the', 5094), ('to', 4491), ('of', 2721), ('and', 2571), ('a', 2498), ('your', 2190), ('for', 1938), ('in', 1935), ('you', 1782), ('how', 1373)]

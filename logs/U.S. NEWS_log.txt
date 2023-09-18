@@ -1,0 +1,1 @@
+Top words for category 'U.S. NEWS': [('to', 377), ('in', 366), ('of', 278), ('for', 180), ('after', 169), ('at', 137), ('on', 121), ('the', 120), ('u.s.', 86), ('from', 84)]

@@ -1,0 +1,1 @@
+Top words for category 'WORLD NEWS': [('in', 1033), ('to', 863), ('of', 669), ('the', 586), ('for', 447), ('on', 289), ('a', 286), ('after', 270), ('at', 258), ('and', 255)]

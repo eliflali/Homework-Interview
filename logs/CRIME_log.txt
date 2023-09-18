@@ -1,0 +1,1 @@
+Top words for category 'CRIME': [('in', 1126), ('of', 754), ('to', 686), ('police', 458), ('for', 455), ('man', 421), ('after', 418), ('on', 321), ('with', 303), ('the', 297)]

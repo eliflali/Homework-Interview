@@ -1,0 +1,1 @@
+Top words for category 'IMPACT': [('the', 1286), ('to', 1003), ('a', 697), ('of', 692), ('in', 617), ('for', 552), ('and', 493), ('is', 281), ('on', 251), ('how', 218)]

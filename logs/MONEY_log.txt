@@ -1,0 +1,1 @@
+Top words for category 'MONEY': [('to', 558), ('the', 402), ('for', 276), ('a', 251), ('in', 226), ('your', 220), ('of', 220), ('you', 188), ('how', 148), ('and', 145)]
