@@ -1,1 +1,1 @@
-Top words for category 'TECH': [(',', 438), ("'s", 364), (':', 340), ("'", 285), ('apple', 243), ('facebook', 206), ('new', 182), ('google', 162), ('iphone', 133), ('?', 114)]
+Top words for category 'TECH': [('apple', 247), ('facebook', 206), ('new', 182), ('google', 166), ('iphone', 135), ('week', 105), ('watch', 95), ('twitter', 89), ('tech', 83), ('top', 68)]

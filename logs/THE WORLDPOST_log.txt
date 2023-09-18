@@ -1,1 +1,1 @@
-Top words for category 'THE WORLDPOST': [(',', 676), ("'s", 644), (':', 354), ("'", 328), ('trump', 225), ('says', 218), ('’', 194), ('u.s.', 185), ('attack', 181), ('.', 165)]
+Top words for category 'THE WORLDPOST': [('trump', 230), ('says', 218), ('attack', 182), ('syria', 166), ('isis', 145), ('korea', 140), ('china', 137), ('turkey', 133), ('north', 132), ('new', 122)]

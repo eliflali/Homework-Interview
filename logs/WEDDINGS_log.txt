@@ -1,1 +1,1 @@
-Top words for category 'WEDDINGS': [('wedding', 1616), (':', 1294), ('(', 745), (')', 745), (',', 501), ('marriage', 466), ("'s", 436), ("'", 401), ('photos', 368), ('video', 344)]
+Top words for category 'WEDDINGS': [('wedding', 1643), ('marriage', 470), ('photos', 368), ('video', 344), ('weddings', 255), ('day', 212), ('married', 209), ('proposal', 188), ('couples', 185), ('bride', 165)]

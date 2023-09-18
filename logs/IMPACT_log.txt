@@ -1,1 +1,0 @@
-Top words for category 'IMPACT': [(':', 738), (',', 619), ("'s", 492), ("'", 232), ('?', 222), ('world', 182), ('day', 164), ('homeless', 154), ('women', 149), ('help', 145)]

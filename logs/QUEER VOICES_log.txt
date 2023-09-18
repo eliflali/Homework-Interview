@@ -1,1 +1,0 @@
-Top words for category 'QUEER VOICES': [("'", 1516), (',', 1433), ("'s", 1378), ('gay', 1292), (':', 1131), ('new', 436), ('queer', 395), ('?', 378), ('lgbt', 375), ('trans', 370)]

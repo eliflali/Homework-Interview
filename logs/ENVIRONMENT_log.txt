@@ -1,0 +1,1 @@
+Top words for category 'ENVIRONMENT': [('photos', 230), ('week', 147), ('climate', 139), ('video', 122), ('animal', 117), ('change', 90), ('new', 65), ('weather', 61), ('day', 52), ('green', 45)]

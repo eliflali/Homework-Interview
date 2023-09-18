@@ -1,1 +1,1 @@
-Top words for category 'GREEN': [(',', 497), ("'s", 422), (':', 383), ('climate', 340), ("'", 204), ('change', 188), ('?', 144), ('california', 123), ('dog', 112), ('new', 101)]
+Top words for category 'GREEN': [('climate', 355), ('change', 193), ('california', 123), ('dog', 114), ('new', 102), ('trump', 75), ('world', 71), ('oil', 69), ('could', 61), ('water', 58)]

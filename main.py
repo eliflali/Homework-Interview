@@ -1,17 +1,10 @@
 import threading
 import logging
 import json
-import nltk  # Import NLTK
+import nltk
 from bs4 import BeautifulSoup
 from html_generator import HtmlPage
-
-# Download NLTK resources (stopwords and tokenizer)
-nltk.download('stopwords')
-nltk.download('punkt')
-
-# Import NLTK libraries for stopwords and tokenization
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
+import string
 
 # Set up logging to write to both console and log files
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -29,9 +22,9 @@ def process_category(category, data_file, result_dict):
     category_logger.setLevel(logging.INFO)
 
     word_counts = {}
-    
+
     # Get NLTK stopwords
-    nltk_stopwords = set(stopwords.words('english'))
+    nltk_stopwords = set(nltk.corpus.stopwords.words('english'))
 
     with open(data_file, 'r', encoding='utf-8') as file:
         data = [json.loads(line) for line in file]
@@ -39,10 +32,14 @@ def process_category(category, data_file, result_dict):
         for item in data:
             if item['category'] == category:
                 headline = item['headline']
-                
-                # Tokenize the headline using NLTK tokenizer
-                words = word_tokenize(headline)
-                
+
+                # Use NLTK's regular expression tokenizer to tokenize based on word boundaries
+                tokenizer = nltk.RegexpTokenizer(r'\b[a-zA-Z]+\b')  # Only match words containing alphabetic characters
+                words = tokenizer.tokenize(headline)
+
+                # Filter out tokens that consist only of punctuation or are one character in length
+                words = [word.lower() for word in words if word.lower() not in nltk_stopwords and word not in string.punctuation and len(word) > 1]
+
                 for word in words:
                     word = word.lower()
                     if word not in nltk_stopwords:

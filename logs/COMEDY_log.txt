@@ -1,1 +1,1 @@
-Top words for category 'COMEDY': [("'", 1976), ("'s", 1329), ('trump', 1076), (')', 783), ('(', 782), (',', 738), (':', 682), ('donald', 614), ('video', 559), ('colbert', 371)]
+Top words for category 'COMEDY': [('trump', 1122), ('donald', 617), ('video', 594), ('colbert', 374), ('snl', 369), ('jimmy', 330), ('stephen', 299), ('bill', 270), ('maher', 217), ('new', 203)]

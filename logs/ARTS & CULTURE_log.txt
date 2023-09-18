@@ -1,0 +1,1 @@
+Top words for category 'ARTS & CULTURE': [('art', 127), ('trump', 101), ('artist', 91), ('new', 89), ('book', 88), ('women', 70), ('artists', 47), ('photos', 42), ('world', 39), ('books', 37)]

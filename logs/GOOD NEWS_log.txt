@@ -1,1 +1,0 @@
-Top words for category 'GOOD NEWS': [(',', 311), ("'s", 251), ("'", 145), ('dog', 110), ('man', 88), (':', 66), ('boy', 59), ('’', 56), ('woman', 53), ('homeless', 50)]

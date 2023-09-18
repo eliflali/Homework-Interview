@@ -1,1 +1,1 @@
-Top words for category 'FOOD & DRINK': [(':', 1824), ('(', 1293), (')', 1292), (',', 901), ('recipes', 761), ("'s", 735), ('photos', 722), ('best', 507), ('food', 494), ('recipe', 445)]
+Top words for category 'FOOD & DRINK': [('recipes', 761), ('photos', 723), ('best', 511), ('food', 508), ('recipe', 449), ('day', 365), ('make', 362), ('video', 284), ('new', 197), ('eat', 157)]

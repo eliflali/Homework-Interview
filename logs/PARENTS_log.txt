@@ -1,1 +1,0 @@
-Top words for category 'PARENTS': [("'s", 701), ("'", 500), ('kids', 459), (',', 442), ('mom', 363), ('parents', 286), (':', 259), ('baby', 218), ("n't", 191), ('dad', 190)]
