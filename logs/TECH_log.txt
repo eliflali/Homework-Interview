@@ -1,1 +1,1 @@
-Top words for category 'TECH': [('the', 615), ('to', 565), ('of', 335), ('in', 303), ('a', 250), ('is', 245), ('for', 225), ('and', 210), ('apple', 199), ('on', 180)]
+Top words for category 'TECH': [(',', 438), ("'s", 364), (':', 340), ("'", 285), ('apple', 243), ('facebook', 206), ('new', 182), ('google', 162), ('iphone', 133), ('?', 114)]

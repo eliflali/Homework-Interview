@@ -1,1 +1,0 @@
-Top words for category 'STYLE': [('the', 901), ('to', 479), ('a', 415), ('is', 370), ('of', 294), ('this', 283), ('and', 279), ('in', 274), ('for', 270), ('you', 210)]

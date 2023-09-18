@@ -1,1 +1,1 @@
-Top words for category 'WORLDPOST': [('the', 986), ('in', 638), ('of', 543), ('to', 478), ('and', 382), ('a', 335), ('for', 266), ('on', 220), ('is', 219), ('from', 125)]
+Top words for category 'WORLDPOST': [("'s", 515), (':', 501), (',', 413), ('?', 196), ("'", 177), ('isis', 132), ('world', 110), ('new', 94), ('iran', 85), ('war', 85)]

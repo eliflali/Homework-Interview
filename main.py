@@ -1,8 +1,17 @@
 import threading
 import logging
 import json
+import nltk  # Import NLTK
 from bs4 import BeautifulSoup
 from html_generator import HtmlPage
+
+# Download NLTK resources (stopwords and tokenizer)
+nltk.download('stopwords')
+nltk.download('punkt')
+
+# Import NLTK libraries for stopwords and tokenization
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
 
 # Set up logging to write to both console and log files
 logging.basicConfig(level=logging.INFO, format='%(levelname)s: %(message)s')
@@ -20,11 +29,9 @@ def process_category(category, data_file, result_dict):
     category_logger.setLevel(logging.INFO)
 
     word_counts = {}
-    stopwords = set()
-
-    # Load stopwords from a file
-    with open('data/stopwords.txt', 'r') as stopword_file:
-        stopwords = set(stopword_file.read().split())
+    
+    # Get NLTK stopwords
+    nltk_stopwords = set(stopwords.words('english'))
 
     with open(data_file, 'r', encoding='utf-8') as file:
         data = [json.loads(line) for line in file]
@@ -32,11 +39,13 @@ def process_category(category, data_file, result_dict):
         for item in data:
             if item['category'] == category:
                 headline = item['headline']
-                words = headline.split()
-
+                
+                # Tokenize the headline using NLTK tokenizer
+                words = word_tokenize(headline)
+                
                 for word in words:
                     word = word.lower()
-                    if word not in stopwords:
+                    if word not in nltk_stopwords:
                         word_counts[word] = word_counts.get(word, 0) + 1
 
     # Log the top 10 words for the category

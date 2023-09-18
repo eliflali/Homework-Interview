@@ -1,1 +1,1 @@
-Top words for category 'HEALTHY LIVING': [('to', 2146), ('the', 1912), ('a', 1189), ('of', 985), ('your', 977), ('you', 825), ('for', 803), ('and', 749), ('in', 735), ('how', 667)]
+Top words for category 'HEALTHY LIVING': [("'s", 799), (',', 759), (':', 729), ('?', 492), ("'", 433), ('health', 376), ('life', 296), ('5', 276), ("n't", 264), ('ways', 244)]

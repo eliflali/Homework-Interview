@@ -1,1 +1,1 @@
-Top words for category 'PARENTS': [('to', 1186), ('the', 1185), ('a', 866), ('of', 592), ('for', 519), ('and', 452), ('my', 421), ('in', 407), ('kids', 407), ('this', 381)]
+Top words for category 'PARENTS': [("'s", 701), ("'", 500), ('kids', 459), (',', 442), ('mom', 363), ('parents', 286), (':', 259), ('baby', 218), ("n't", 191), ('dad', 190)]

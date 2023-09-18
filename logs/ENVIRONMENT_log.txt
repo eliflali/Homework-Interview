@@ -1,1 +1,0 @@
-Top words for category 'ENVIRONMENT': [('the', 507), ('of', 340), ('to', 300), ('in', 224), ('and', 216), ('for', 164), ('a', 148), ('photos', 141), ('climate', 136), ('animal', 115)]

@@ -1,1 +1,1 @@
-Top words for category 'EDUCATION': [('the', 409), ('to', 241), ('for', 188), ('a', 164), ('of', 156), ('in', 141), ('and', 138), ('school', 121), ('education', 103), ('is', 70)]
+Top words for category 'EDUCATION': [(':', 212), (',', 164), ('education', 142), ('?', 129), ('school', 127), ("'s", 104), ('schools', 75), ('teachers', 66), ('students', 64), ('teacher', 62)]

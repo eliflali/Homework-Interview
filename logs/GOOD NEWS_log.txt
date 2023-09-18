@@ -1,1 +1,1 @@
-Top words for category 'GOOD NEWS': [('to', 476), ('a', 304), ('the', 298), ('in', 252), ('with', 225), ('for', 223), ('of', 195), ('and', 143), ('this', 138), ('is', 119)]
+Top words for category 'GOOD NEWS': [(',', 311), ("'s", 251), ("'", 145), ('dog', 110), ('man', 88), (':', 66), ('boy', 59), ('’', 56), ('woman', 53), ('homeless', 50)]

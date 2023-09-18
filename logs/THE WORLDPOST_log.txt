@@ -1,1 +1,1 @@
-Top words for category 'THE WORLDPOST': [('in', 1240), ('to', 880), ('of', 743), ('the', 688), ('for', 400), ('a', 341), ('and', 327), ('on', 326), ('u.s.', 268), ('after', 256)]
+Top words for category 'THE WORLDPOST': [(',', 676), ("'s", 644), (':', 354), ("'", 328), ('trump', 225), ('says', 218), ('’', 194), ('u.s.', 185), ('attack', 181), ('.', 165)]

@@ -1,1 +1,1 @@
-Top words for category 'COLLEGE': [('to', 355), ('the', 333), ('college', 231), ('of', 225), ('a', 192), ('for', 159), ('in', 136), ('and', 110), ('on', 102), ('students', 97)]
+Top words for category 'COLLEGE': [('college', 249), (',', 168), (':', 164), ("'s", 139), ("'", 112), ('students', 105), ('university', 99), ('student', 76), ('?', 72), ('sexual', 66)]

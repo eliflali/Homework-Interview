@@ -1,1 +1,1 @@
-Top words for category 'STYLE & BEAUTY': [('(photos)', 3684), ('the', 2863), ('to', 1783), ('a', 1388), ('of', 1313), ('and', 1282), ('in', 1280), ('for', 1076), ('fashion', 959), ('is', 898)]
+Top words for category 'STYLE & BEAUTY': [('(', 5399), (')', 5398), ('photos', 4153), (',', 3225), (':', 2897), ("'s", 2488), ("'", 1447), ('fashion', 1031), ('style', 891), ('week', 822)]

@@ -1,1 +1,1 @@
-Top words for category 'LATINO VOICES': [('to', 359), ('the', 349), ('of', 208), ('in', 203), ('a', 195), ('for', 184), ('and', 138), ('on', 120), ('is', 117), ('latino', 114)]
+Top words for category 'LATINO VOICES': [("'", 265), ("'s", 186), (',', 163), (':', 134), ('latino', 117), ('’', 102), ('trump', 101), ('latinos', 79), ('puerto', 49), ('‘', 47)]

@@ -1,1 +1,0 @@
-Top words for category 'WEIRD NEWS': [('a', 559), ('the', 538), ('to', 493), ('in', 486), ('of', 381), ('this', 315), ('for', 279), ('is', 278), ('on', 268), ('with', 247)]

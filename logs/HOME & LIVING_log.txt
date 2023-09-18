@@ -1,1 +1,1 @@
-Top words for category 'HOME & LIVING': [('(photos)', 1291), ('the', 1192), ('to', 1186), ('a', 1056), ('home', 815), ('of', 723), ('for', 651), ('your', 635), ('and', 603), ('in', 587)]
+Top words for category 'HOME & LIVING': [('(', 1911), (')', 1910), ('photos', 1364), (':', 1170), (',', 895), ('home', 889), ("'s", 712), ("'", 383), ('video', 382), ('ideas', 336)]

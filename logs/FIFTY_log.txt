@@ -1,1 +1,1 @@
-Top words for category 'FIFTY': [('the', 532), ('to', 422), ('a', 267), ('of', 210), ('for', 168), ('in', 168), ('why', 158), ('you', 153), ('your', 150), ('and', 143)]
+Top words for category 'FIFTY': [("'s", 203), (',', 95), ('5', 90), ("'", 71), (':', 68), ('?', 67), ('life', 67), ('things', 65), ('50', 62), ('retirement', 56)]
