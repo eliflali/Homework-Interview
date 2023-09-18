@@ -4,6 +4,11 @@
 
 The News Category Analyzer is a Python script that processes news data and generates an HTML report of the top words in each news category. It is designed to work with a dataset containing news articles.
 
+## My assumptions
+- I removed numbers from words list, thinking this was not intended.
+- I removed one letter words for the same reason.
+- Changed html.py name to html_generator.py thinking it may cause some errors because html name might be used in various places of libraries.
+
 ## Prerequisites
 
 Before running the script, make sure you have the following prerequisites installed:
