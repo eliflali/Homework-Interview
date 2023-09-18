@@ -1,1 +1,0 @@
-Top words for category 'EDUCATION': [('education', 143), ('school', 132), ('schools', 76), ('teachers', 67), ('students', 64), ('teacher', 63), ('global', 42), ('student', 41), ('college', 40), ('new', 37)]

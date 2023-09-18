@@ -1,1 +1,0 @@
-Top words for category 'SCIENCE': [('new', 168), ('space', 161), ('scientists', 159), ('video', 153), ('may', 153), ('nasa', 144), ('science', 127), ('study', 126), ('earth', 100), ('shows', 85)]

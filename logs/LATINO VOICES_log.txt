@@ -1,1 +1,0 @@
-Top words for category 'LATINO VOICES': [('latino', 123), ('trump', 105), ('latinos', 81), ('puerto', 49), ('latina', 48), ('new', 46), ('says', 41), ('rico', 39), ('star', 32), ('immigration', 32)]

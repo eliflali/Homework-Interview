@@ -1,1 +1,0 @@
-Top words for category 'ENTERTAINMENT': [('new', 1188), ('trump', 809), ('star', 614), ('says', 574), ('first', 513), ('show', 452), ('movie', 442), ('trailer', 411), ('donald', 404), ('video', 401)]

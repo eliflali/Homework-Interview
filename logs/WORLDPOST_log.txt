@@ -1,1 +1,0 @@
-Top words for category 'WORLDPOST': [('isis', 136), ('world', 110), ('new', 96), ('iran', 89), ('war', 88), ('china', 82), ('israel', 76), ('ukraine', 67), ('iraq', 62), ('gaza', 58)]

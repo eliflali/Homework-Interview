@@ -1,1 +1,0 @@
-Top words for category 'CRIME': [('police', 480), ('man', 448), ('shooting', 281), ('cops', 189), ('killed', 184), ('year', 181), ('suspect', 174), ('dead', 170), ('woman', 168), ('allegedly', 165)]

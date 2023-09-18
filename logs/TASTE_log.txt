@@ -1,1 +1,0 @@
-Top words for category 'TASTE': [('recipes', 184), ('make', 182), ('food', 147), ('best', 110), ('new', 100), ('day', 66), ('summer', 65), ('cooking', 59), ('easy', 57), ('get', 52)]

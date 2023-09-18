@@ -1,1 +1,0 @@
-Top words for category 'U.S. NEWS': [('california', 72), ('new', 69), ('dead', 66), ('shooting', 63), ('police', 62), ('covid', 52), ('says', 49), ('trump', 49), ('death', 48), ('school', 44)]

@@ -1,1 +1,0 @@
-Top words for category 'TRAVEL': [('photos', 1708), ('travel', 951), ('world', 679), ('best', 607), ('new', 483), ('video', 351), ('hotel', 326), ('hotels', 300), ('america', 268), ('top', 232)]

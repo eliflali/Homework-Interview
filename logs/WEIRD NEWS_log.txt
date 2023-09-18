@@ -1,1 +1,0 @@
-Top words for category 'WEIRD NEWS': [('man', 261), ('watch', 124), ('woman', 122), ('police', 99), ('dog', 97), ('new', 85), ('trump', 83), ('video', 77), ('cops', 75), ('gets', 74)]

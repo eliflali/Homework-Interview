@@ -1,1 +1,0 @@
-Top words for category 'WELLNESS': [('study', 914), ('health', 811), ('life', 682), ('cancer', 654), ('sleep', 607), ('new', 574), ('could', 518), ('day', 506), ('ways', 488), ('weight', 487)]

@@ -1,1 +1,0 @@
-Top words for category 'RELIGION': [('pope', 276), ('francis', 161), ('church', 134), ('meditation', 133), ('daily', 131), ('muslim', 118), ('faith', 90), ('new', 88), ('religious', 85), ('god', 81)]

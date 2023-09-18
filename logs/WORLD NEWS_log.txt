@@ -1,1 +1,0 @@
-Top words for category 'WORLD NEWS': [('trump', 233), ('korea', 210), ('north', 204), ('says', 165), ('new', 149), ('china', 108), ('president', 98), ('un', 97), ('attack', 97), ('world', 93)]
