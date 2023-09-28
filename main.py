@@ -30,7 +30,6 @@ def tokenize_headline(headline):
   #  and exclude stopwords and punctuation.
   tokenizer = RegexpTokenizer(r'\b[a-zA-Z]+\b')
   words = tokenizer.tokenize(headline)
-  nltk_stopwords = set(stopwords.words('english'))
   words = [word.lower() for word in words
            if word.lower() not in nltk_stopwords
            and word not in string.punctuation and len(word) > 1]
@@ -74,6 +73,8 @@ def main():
   parser = argparse.ArgumentParser(description='Process data.')
   parser.add_argument('data_file', type=str, help='Path to the dataset file')
   args = parser.parse_args()
+  global nltk_stopwords 
+  nltk_stopwords = set(stopwords.words('english'))
 
   data_file_path = args.data_file  # Use the provided dataset file path
   categories = extract_unique_categories(data_file_path)
